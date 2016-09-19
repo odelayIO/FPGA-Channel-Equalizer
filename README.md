@@ -11,8 +11,7 @@ In wireless communication systems, a channel equalizer is a technology that enab
 
 
 ## Slide 1
-![Slide1](http://odelayio.github.io/FPGA-Channel-Equalizer/images/Slide1.PNG)
-
+![Slide1](https://github.com/odelayIO/FPGA-Channel-Equalizer/tree/gh-pages/images/slides/Slide1.PNG)
 
 ## Slide 2
 ![Slide2](http://odelayio.github.io/FPGA-Channel-Equalizer/images/Slide2.PNG)
