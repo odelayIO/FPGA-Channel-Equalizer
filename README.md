@@ -1,6 +1,8 @@
+#### View on [gh-page](http://odelayio.github.io/FPGA-Channel-Equalizer/)
+<br>
+
 # FPGA Implementation of a Channel Equalizer based on the LMS Algorithm
 <br>
-## View on [gh-page](http://odelayio.github.io/FPGA-Channel-Equalizer/)
 
    
 ## Abstraction
