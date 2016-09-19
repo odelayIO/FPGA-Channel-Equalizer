@@ -25,7 +25,7 @@
 % *  
 % *  Contact : <everett@odelay.io>
 % *  
-% *  Description : Polls TriggerSensors and transmits data to serial port.
+% *  Description : FPGA Model of LMS Time-Domain Equalizer
 % *
 % *  Version History:
 % *  

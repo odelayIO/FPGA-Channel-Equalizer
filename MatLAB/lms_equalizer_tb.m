@@ -25,7 +25,7 @@
 % *  
 % *  Contact : <everett@odelay.io>
 % *  
-% *  Description : Polls TriggerSensors and transmits data to serial port.
+% *  Description : Testbench for the FPGA Model of Time-Doman Equalizer
 % *
 % *  Version History:
 % *  
