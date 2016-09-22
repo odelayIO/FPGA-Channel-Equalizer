@@ -5,7 +5,7 @@
 <br>
 
    
-## Abstraction
+## Abstract
 In wireless communication systems, a channel equalizer is a technology that enables the receiver baseband signal processing section to remove the unwanted time-variant channel characteristics such as multipath components and inter-symbol interference (ISI).  This presentation will review the Rayleigh fading channel model and discuss the methodology in which a wireless communication system requires an equalizer.  The LMS Algorithm will be introduced, followed by a detailed discussion regarding the LMS algorithm’s capability to remove the unwanted channel characteristics.  The LMS Algorithm realization will be examined, followed by an implementation example for a linear receiver with diversity. 
 
 
